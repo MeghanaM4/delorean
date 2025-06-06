@@ -1,0 +1,117 @@
+(footprint "boost_conv"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "boost_conv"
+		(at 6 -6.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4902151d-d9ab-4ebe-9e5a-c982c434eba6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Value" "boost_conv"
+		(at -0.5 0.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5d42ef5b-95cb-49a9-91d8-9a09a3d8e7cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c6941658-b18f-44d6-8478-3e07484a1ba0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f617b727-ef75-451f-9aa4-dc40427480d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -3.5 -5.5)
+		(end 16 10.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "3a29a5bd-957e-4cb7-8b0d-44854a35ae07")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "8b8f9c37-2dd7-41b5-bd13-e8ed179c0762")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at -1.5 -3.5)
+		(size 1.905 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "8e11eb3d-11cf-48e3-870c-00679088a7b5")
+	)
+	(pad "2" thru_hole oval
+		(at -1.5 8.5)
+		(size 1.905 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "8a9adbd6-ccca-4bfe-be18-5864795f2ceb")
+	)
+	(pad "3" thru_hole oval
+		(at 13.5 -3.5)
+		(size 1.905 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "d1418225-68b8-4466-bd83-74e4f4eea79a")
+	)
+	(pad "4" thru_hole oval
+		(at 13.5 8.5)
+		(size 1.905 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "2e7d1576-7371-4a49-b3eb-5726433086ba")
+	)
+	(embedded_fonts no)
+)
