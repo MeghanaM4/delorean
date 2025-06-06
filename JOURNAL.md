@@ -17,14 +17,14 @@ completely doable. I'm excited. I'm kinda afraid of shocking myself, but it'll p
 I had to find a boost converter that could be bought in bulk and tried to find
 KiCAD footprints (I'd already resigned to making the symbols myself) but none of them are named???? Like not a single boost converter I found that can get up to the 170V needed
 for 6 IN-12 tubes have names. No part number, just "3V-6V to 170V Boost Converter Nixie Power Supply 6pcs 12pcs Very Cheap Awesome Good Quality". So, yeah great.
-<convdesc img>
+<img src="imgs/convdesc.png">
 
 <br>
 Then, I made the project in KiCAD (DeLorean, there's probably a wittier name but whatever) and got to work making the boost converter, K155ID1, and IN-12 nixie tube symbols since
 apparently, even though tons of people make these clocks and they sell for like $300 on amazon, I'm too blind to find a good one on the internet. And it doesn't help that the
 datasheets for these look like they haven't been updated since the Russians made these things back in the cold war.           
 
-<img>
+<img src="imgs/customSymbols.png">
 <br>
 I have to order one of the boost controllers so I can make a footprint for it (again, it doesn't have a name and kinda seems like it doesn't exist outside of aliexpress and
 ebay, am I doing something wrong?), but it won't arrive until I'm in vermont in 2 weeks, so I'll have to wait till then to make it (I tried to look around for more in-depth
