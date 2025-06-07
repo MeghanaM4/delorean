@@ -31,11 +31,14 @@ I have to order one of the boost controllers so I can make a footprint for it,
 
 > again, it doesn't have a name and kinda seems like it doesn't exist outside of aliexpress and ebay, am I doing something wrong?
 >       
-but it won't arrive until I'm in vermont in 2 weeks, so I'll have to wait till then to make it. 
+but it won't arrive until I'm in vermont in 2 weeks, so I'll have to wait till then to make it.           
+
 <br>
-I laid out and wired the rest of the schematic
-<img src="imgs/v1schematic.png" title="v1 of the schematic">
+
+I laid out and wired the rest of the schematic              
+<img src="imgs/v1schematic.png" title="v1 of the schematic" style="height: 350px; width:600px">
 <br>
-And this is the first version of the PCB
-<img src="imgs/v1PCB.png">
+
+And this is the first version of the PCB            
+<img src="imgs/v1PCB.png" style="height: 300px; width:600px">           
 The boost converter footprint is just a placeholder for now, and I have to route the whole thing. Alex's told me that you should make the area above the K155ID1s high voltage zones and the area below everything else. So I'll have to do that. Awesome.
