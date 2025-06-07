@@ -42,3 +42,16 @@ I laid out and wired the rest of the schematic
 And this is the first version of the PCB            
 <img src="imgs/v1PCB.png" style="height: 300px; width:600px">           
 The boost converter footprint is just a placeholder for now, and I have to route the whole thing. Alex's told me that you should make the area above the K155ID1s high voltage zones and the area below everything else. So I'll have to do that. Awesome.
+## Saturday June 7, 2025
+Here's a tentative BOM
+| Item | Qty | Cost/item |
+| ---- | --- | ---- |
+| IN-12 nixie tubes | 6 | $5 |
+| K155ID1 controller chip | 6 | $6 |
+| 5V to 170V boost converter | 1 | $16 |
+| Raspberry Pi Pico W | 1 | $8 |
+| DIP-16 chip connecter | 6 | $2 |
+| Custom PCB from JLCPCB | 1 | ~$10 | 
+| Battery case | 1 | need to find |
+| AA batteries | 4 | need to find | 
+| USB Isolator | 1 | need to find | 
