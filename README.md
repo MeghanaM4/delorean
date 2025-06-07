@@ -18,3 +18,4 @@ If you want to learn how I'm making this, check out the [journal](/JOURNAL.md)
 | Battery case | 1 | need to find |
 | AA batteries | 4 | need to find | 
 | USB Isolator | 1 | need to find | 
+| Total |  | ~$75 |
