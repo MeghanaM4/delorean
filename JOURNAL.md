@@ -9,7 +9,7 @@ that he made in january, and he gave me a ton of advice. I searched around for o
 - x4 AA Batteries (+ 1 case)
 - x1 PCB and shipping
 
-This isn't counting some resistors and capacitors I'll need, but I'll research those later. The K1551D1 is a chip made for controlling nixie tubes (and alex used it so I'm
+This isn't counting some resistors and capacitors I might need, but I'll research those later. The K1551D1 is a chip made for controlling nixie tubes (and alex used it so I'm
 copying him). I chose the pico W because it has RTC, a bunch of GPIO pins (you need 25 for a 6-digit nixie clock), and it's WiFi enabled. The total is around $70, which is
 completely doable. I'm excited. I'm kinda afraid of shocking myself, but it'll probably be okay.
 
@@ -32,3 +32,10 @@ I have to order one of the boost controllers so I can make a footprint for it,
 > again, it doesn't have a name and kinda seems like it doesn't exist outside of aliexpress and ebay, am I doing something wrong?
 >       
 but it won't arrive until I'm in vermont in 2 weeks, so I'll have to wait till then to make it. 
+<br>
+I laid out and wired the rest of the schematic
+<img src="imgs/v1schematic.png" title="v1 of the schematic">
+<br>
+And this is the first version of the PCB
+<img src="imgs/v1PCB.png">
+The boost converter footprint is just a placeholder for now, and I have to route the whole thing. Alex's told me that you should make the area above the K155ID1s high voltage zones and the area below everything else. So I'll have to do that. Awesome.
