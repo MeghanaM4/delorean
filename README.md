@@ -10,7 +10,7 @@ If you want to learn how I'm making this, check out the [journal](/JOURNAL.md)
 | Item | Qty | Cost/item |
 | ---- | --- | ---- |
 | IN-12 nixie tubes | 6 | $5 |
-| K155ID1 controller chip | 6 | $6 |
+| K155ID1 controller chip | 6 | $1 |
 | 5V to 170V boost converter | 1 | $16 |
 | Raspberry Pi Pico W | 1 | $8 |
 | DIP-16 chip connecter | 6 | $2 |
