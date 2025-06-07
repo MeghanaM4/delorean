@@ -11,13 +11,13 @@ If you want to learn how I'm making this, check out the [journal](/JOURNAL.md)
 | ---- | --- | ---- |
 | IN-12 nixie tubes | 6 | $5 |
 | K155ID1 controller chip | 6 | $1 |
-| 5V to 170V boost converter | 1 | $16 |
+| 5V to 170V boost converter | 1 | $10 |
 | Raspberry Pi Pico W | 1 | $8 |
-| DIP-16 chip connecter | 6 | $2 |
+| DIP-16 chip connecter | 6 | $0.25 |
 | Custom PCB from JLCPCB | 1 | ~$10 | 
 | Battery case | 1 | need to find |
 | AA batteries | 4 | need to find | 
 | USB Isolator | 1 | need to find | 
-| Total |  | ~$75 |
+| Total |  | ~$80 |
 
 View the full BOM [here](https://docs.google.com/spreadsheets/d/1stNW1CtxRqX0r_00TOh1KZHbPOv3G7_He01Eiyjgmc0/edit?usp=sharing)
