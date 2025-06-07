@@ -13,7 +13,7 @@ This isn't counting some resistors and capacitors I might need, but I'll researc
 copying him). I chose the pico W because it has RTC, a bunch of GPIO pins (you need 25 for a 6-digit nixie clock), and it's WiFi enabled. The total is around $70, which is
 completely doable. I'm excited. I'm kinda afraid of shocking myself, but it'll probably be okay.
 
-## Friday, June 6 2025 (5 hours spent)
+## Friday, June 6 2025 (6 hours spent)
 I had to find a boost converter that could be bought in bulk and tried to find
 KiCAD footprints (I'd already resigned to making the symbols myself) but none of them are named???? Like not a single boost converter I found that can get up to the 170V needed
 for 6 IN-12 tubes have names. No part number, just "3V-6V to 170V Boost Converter Nixie Power Supply 6pcs 12pcs Very Cheap Awesome Good Quality". So, yeah great.    
