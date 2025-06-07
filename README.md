@@ -5,3 +5,16 @@ I recently discovered nixie tubes and was like "I should totally make something 
 <br>
 
 If you want to learn how I'm making this, check out the [journal](/JOURNAL.md)
+
+## Tentative BOM
+| Item | Qty | Cost/item |
+| ---- | --- | ---- |
+| IN-12 nixie tubes | 6 | $5 |
+| K155ID1 controller chip | 6 | $6 |
+| 5V to 170V boost converter | 1 | $16 |
+| Raspberry Pi Pico W | 1 | $8 |
+| DIP-16 chip connecter | 6 | $2 |
+| Custom PCB from JLCPCB | 1 | ~$10 | 
+| Battery case | 1 | need to find |
+| AA batteries | 4 | need to find | 
+| USB Isolator | 1 | need to find | 
