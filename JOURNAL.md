@@ -59,6 +59,6 @@ Here's a tentative BOM
 
 ## Monday, June 9 2025 (2 hours spent)
 I routed the PCB today, and then found that my pico W footprint was SMD so I changed it and then routed it again (awesome).   
+> Note to self: routing is hell.             
 <img src="imgs/v2PCB.png" style="height: 300px; width:600px">          
-I actually used filled zones for the first time: the gnd should reduce noise and help with cooling, which is super sick. This isn't the final PCB obviously because I have to actually make the boost converter footprint and add some more silkscreen stuff, but it's looking pretty good. I'll start CADing the case in Inventor soon, so that should be fun.
-> Note to self: routing is hell.
+I actually used filled zones for the first time: the gnd should reduce noise and help with cooling, which is super sick. This isn't the final PCB obviously because I have to actually make the boost converter footprint and add some more silkscreen stuff, but it's looking pretty good. I'll start CADing the case in Inventor soon, so that should be fun. The hackatime kicad extension is being weird so it's not logging all of my time but its okay because we do it for the grind (call me dr seuss).
