@@ -42,7 +42,7 @@ I laid out and wired the rest of the schematic
 And this is the first version of the PCB            
 <img src="imgs/v1PCB.png" style="height: 300px; width:600px">           
 The boost converter footprint is just a placeholder for now, and I have to route the whole thing. Alex's told me that you should make the area above the K155ID1s high voltage zones and the area below everything else. So I'll have to do that. Awesome.
-## Saturday June 7, 2025
+## Saturday June 7, 2025 (2 hours spent)
 Here's a tentative BOM
 | Item | Qty | Cost/item |
 | ---- | --- | ---- |
@@ -56,3 +56,9 @@ Here's a tentative BOM
 | AA batteries | 4 | need to find | 
 | USB Isolator | 1 | need to find | 
 | Total |  | ~$80 |
+
+## Monday, June 9 2025 (2 hours spent)
+I routed the PCB today, and then found that my pico W footprint was SMD so I changed it and then routed it again (awesome).   
+<img src="imgs/v2PCB.png" style="height: 300px; width:600px">          
+I actually used filled zones for the first time: the gnd should reduce noise and help with cooling, which is super sick. This isn't the final PCB obviously because I have to actually make the boost converter footprint and add some more silkscreen stuff, but it's looking pretty good. I'll start CADing the case in Inventor soon, so that should be fun.
+> Note to self: routing is hell.
