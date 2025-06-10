@@ -62,3 +62,7 @@ I routed the PCB today, and then found that my pico W footprint was SMD so I cha
 > Note to self: routing is hell.             
 <img src="imgs/v2PCB.png" style="height: 300px; width:600px">          
 I actually used filled zones for the first time: the gnd should reduce noise and help with cooling, which is super sick. This isn't the final PCB obviously because I have to actually make the boost converter footprint and add some more silkscreen stuff, but it's looking pretty good. I'll start CADing the case in Inventor soon, so that should be fun. The hackatime kicad extension is being weird so it's not logging all of my time but its okay because we do it for the grind (call me dr seuss).
+
+## Tuesday, June 10 2025 (1 hour spent)
+Getting back into CADing things again, and since I wasn't a fan of the nixie tube model I downloaded (KiCAD's renders doesn't have opacity so they just look like solid blocks) I opened up inventor and started messing with it. Then, it didn't save all my appearance changes so I just deleted the outer shell and gave up.           
+<img src="imgs/CADrender.png" style="height: 300px; width:600px">    
