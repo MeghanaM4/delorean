@@ -93,4 +93,7 @@ I put fillets on the high voltage traces on the PCB (half for fun and half cause
 | Total |  |  | ~$95 |       
 
 actual BOM [here](https://docs.google.com/spreadsheets/d/1stNW1CtxRqX0r_00TOh1KZHbPOv3G7_He01Eiyjgmc0/edit?gid=0#gid=0)
+<br>
+I got some more work on the case done, so that was nice. Still trying to come up with ideas on how to make it look more cool. Also, I wanna make another case that can be used if the clock is horizontal.                   
 
+<img src="imgs/casev2Angle.png" style="height: 400px; width:500px">    
