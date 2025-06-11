@@ -75,7 +75,7 @@ Pretty cool right?
      
 <img src="imgs/casev1Angle.png" style="height: 400px; width:500px">    
 
-## Wednesday, June 11 2025 (1 hour spent)
+## Wednesday, June 11 2025 (2 hours spent)
 I put fillets on the high voltage traces on the PCB (half for fun and half cause apparently it helps isolation ??) and updated the BOM. Batteries are a bad way to go, you'll need to replace them often and it's just a pain.
 
 # BOM
