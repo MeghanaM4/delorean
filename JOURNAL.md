@@ -74,3 +74,20 @@ Started the case today, it was pretty fun once I got into a rhythm
 Pretty cool right?
      
 <img src="imgs/casev1Angle.png" style="height: 400px; width:500px">    
+
+## Wednesday, June 11 2025 (1 hour spent)
+I put fillets on the high voltage traces on the PCB (half for fun and half cause apparently it helps isolation ??) and updated the BOM. Batteries are a bad way to go, you'll need to replace them often and it's just a pain.
+
+# BOM
+| Item | Qty | Cost/item | Total Cost |
+| ---- | --- | --------- | ---------- |
+| IN-12 nixie tubes | 6 | $5.08 | $30.50 |
+| K155ID1 controller chip | 6 | $1 | $6 |
+| 5V to 170V boost converter | 1 | 10.50 | $10.50 |
+| Raspberry Pi Pico W | 1 | $7.65 | $7.65 |
+| DIP-16 chip connecter | 6 | $0.25 |$1.50 |
+| Custom PCB from JLCPCB | 1 | ~$10 | ~$10 |
+| USB Isolator | 1 | $9.99 | $9.99 | 
+| USB A to C | 1 | $1.29 | $1.29 | 
+| Estimated shipping |  |  | $15 |
+| Total |  |  | ~$95 |
