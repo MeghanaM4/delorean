@@ -69,6 +69,8 @@ Getting back into CADing things again, and since I wasn't a fan of the nixie tub
 
 Started the case today, it was pretty fun once I got into a rhythm
 > then I had the depressing realization that I will probably spend 30% of my life in CAD. Anyway. Here it is!                
-<img src="imgs/casev1Front" style="height: 300px; width:600px">    
-Pretty cool right?                                           
-<img src="imgs/casev1Angle" style="height: 300px; width:600px">    
+<img src="imgs/casev1Front.png" style="height: 300px; width:500px">
+
+Pretty cool right?
+     
+<img src="imgs/casev1Angle.png" style="height: 400px; width:500px">    
