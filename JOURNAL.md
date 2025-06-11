@@ -78,7 +78,7 @@ Pretty cool right?
 ## Wednesday, June 11 2025 (3 hours spent)
 I put fillets on the high voltage traces on the PCB (half for fun and half cause apparently it helps isolation ??) and updated the BOM. Batteries are a bad way to go, you'll need to replace them often and it's just a pain.
 
-# BOM
+### BOM
 | Item | Qty | Cost/item | Total Cost |
 | ---- | --- | --------- | ---------- |
 | IN-12 nixie tubes | 6 | $5.08 | $30.50 |
