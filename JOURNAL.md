@@ -90,4 +90,7 @@ I put fillets on the high voltage traces on the PCB (half for fun and half cause
 | USB Isolator | 1 | $9.99 | $9.99 | 
 | USB A to C | 1 | $1.29 | $1.29 | 
 | Estimated shipping |  |  | $15 |
-| Total |  |  | ~$95 |
+| Total |  |  | ~$95 |       
+
+actual BOM [here](https://docs.google.com/spreadsheets/d/1stNW1CtxRqX0r_00TOh1KZHbPOv3G7_He01Eiyjgmc0/edit?gid=0#gid=0)
+
