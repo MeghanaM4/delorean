@@ -4,7 +4,6 @@ A super cool nixie clock made with a custom PCB powered by a raspberry pi pico W
 I recently discovered nixie tubes and was like "I should totally make something with that". I wanted to make something a bit more complicated for my first go, but this clock sets me up pretty well do to some cooler stuff (and will make for a pretty awesome present).         
 
 ## Case + Board
-<img src="imgs/casev2Front.png" style="height: 300px; width:500px">    
 <img src="imgs/casev2Angle.png" style="height: 400px; width:500px">    
 
 ## PCB
