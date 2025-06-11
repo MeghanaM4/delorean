@@ -1,4 +1,4 @@
-# Journal
+# Journal (total time spent: 18 hours)
 ## Thursday, June 5 2025 (~3 hours spent)
 I've been deciding between a couple projects for some time, and finally decided to commit to a nixie tube clock. I talked to Alex Park a ton about [his clock](https://parkalex.dev/posts/nixieclock) 
 that he made in january, and he gave me a ton of advice. I searched around for other clocks people have made and have boiled my BOM to 6 items:             
