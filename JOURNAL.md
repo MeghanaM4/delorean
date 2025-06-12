@@ -101,4 +101,5 @@ I got some more work on the case done, so that was nice. Still trying to come up
 ## Thursday June 12, 2025 (2 hours spent)
 Coding the firmware today was fun. Obviously I can't test it and see if it works (which is probably why it was so fun).
 > "it should work" famous last words
+
 I wanted to use NIST for syncing time because my math teacher talked about it like it was some sacred, profound institution and it would be cool, but apparently Network Time Protocol is better because it searches for a server that's closest to you. Also, today I learned that digitalWrite() takes booleans, very cool.
