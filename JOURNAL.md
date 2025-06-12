@@ -1,4 +1,4 @@
-# Journal (total time spent: 18 hours)
+# Journal (total time spent: 20 hours)
 ## Thursday, June 5 2025 (~3 hours spent)
 I've been deciding between a couple projects for some time, and finally decided to commit to a nixie tube clock. I talked to Alex Park a ton about [his clock](https://parkalex.dev/posts/nixieclock) 
 that he made in january, and he gave me a ton of advice. I searched around for other clocks people have made and have boiled my BOM to 6 items:             
@@ -97,3 +97,8 @@ actual BOM [here](https://docs.google.com/spreadsheets/d/1stNW1CtxRqX0r_00TOh1KZ
 I got some more work on the case done, so that was nice. Still trying to come up with ideas on how to make it look more cool. Also, I wanna make another case that can be used if the clock is horizontal.                   
 
 <img src="imgs/casev2Angle.png" style="height: 400px; width:500px">    
+
+## Thursday June 12, 2025 (2 hours spent)
+Coding the firmware today was fun. Obviously I can't test it and see if it works (which is probably why it was so fun).
+> "it should work" famous last words
+I wanted to use NIST for syncing time because my math teacher talked about it like it was some sacred, profound institution and it would be cool, but apparently Network Time Protocol is better because it searches for a server that's closest to you. Also, today I learned that digitalWrite() takes booleans, very cool.
