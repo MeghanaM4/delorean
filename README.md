@@ -1,12 +1,16 @@
 # delorean
-A super cool nixie clock made with a custom PCB powered by a raspberry pi pico W
+A super cool nixie clock made with a custom PCB powered by a raspberry pi pico W.
 ## Why
 I recently discovered nixie tubes and was like "I should totally make something with that". I wanted to make something a bit more complicated for my first go, but this clock sets me up pretty well do to some cooler stuff (and will make for a pretty awesome present).         
 
 ## Case + Board
+I've been trying to get better at Inventor (people keep shaming me for using Fusion, so), and this project was a good way to ease back into it. I was also painfully reminded of how hard it is to CAD without a mouse.
+
 <img src="imgs/casev2Angle.png" style="height: 400px; width:500px">    
 
 ## PCB
+This is my 3rd PCB, and while it took a lot less time than my first, it was still a hassle to route all those nixie tubes. Pretty happy with the way it turned out, and might have to add some more silkscreen stuff to it.
+
 <img src="imgs/CADrender.png" style="height: 300px; width:600px">    
 <img src="imgs/v2PCB.png" style="height: 300px; width:600px">      
 
