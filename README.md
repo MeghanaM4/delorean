@@ -12,7 +12,7 @@ I've been trying to get better at Inventor (people keep shaming me for using Fus
 This is my 3rd PCB, and while it took a lot less time than my first, it was still a hassle to route all those nixie tubes. Pretty happy with the way it turned out, and might have to add some more silkscreen stuff to it.
 
 <img src="imgs/CADrender.png" style="height: 300px; width:600px">    
-<img src="imgs/v2PCB.png" style="height: 300px; width:600px">      
+<img src="imgs/v3PCB.png" style="height: 300px; width:600px">      
 
 ## Design Process
 If you want to learn how I'm making this, check out the [journal](/JOURNAL.md)
