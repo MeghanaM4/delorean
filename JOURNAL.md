@@ -103,3 +103,8 @@ Coding the firmware today was fun. Obviously I can't test it and see if it works
 > "it should work" famous last words
 
 I wanted to use NIST for syncing time because my math teacher talked about it like it was some sacred, profound institution and it would be cool, but apparently Network Time Protocol is better because it searches for a server that's closest to you. Also, today I learned that digitalWrite() takes booleans, very cool.
+
+## Friday June 13, 2025 (15 minutes spent)
+Added some silkscreen stuff and increased clearance for the 170V traces. Pretty cool stuff.
+
+<img src="imgs/v3PCB.png" style="height: 300px; width:600px">          
