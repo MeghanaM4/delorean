@@ -6,7 +6,7 @@ I recently discovered nixie tubes and was like "I should totally make something 
 ## Case + Board
 I've been trying to get better at Inventor (people keep shaming me for using Fusion, so), and this project was a good way to ease back into it. I was also painfully reminded of how hard it is to CAD without a mouse.
 
-<img src="imgs/render.png" style="height: 400px; width:500px">    
+<img src="imgs/render.png" style="height: 400px; width:650px">    
 
 ## PCB
 This is my 3rd PCB, and while it took a lot less time than my first, it was still a hassle to route all those nixie tubes. Pretty happy with the way it turned out, and might have to add some more silkscreen stuff to it.
