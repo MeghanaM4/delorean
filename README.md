@@ -25,10 +25,11 @@ If you want to learn how I'm making this, check out the [journal](/JOURNAL.md)
 | 5V to 170V boost converter | 1 | 10.50 | $10.50 |
 | Raspberry Pi Pico W | 1 | $7.65 | $7.65 |
 | DIP-16 chip connecter | 6 | $0.25 |$1.50 |
+| Dsub pins | 100 | $0.10 | $9.58 | 
 | Custom PCB from JLCPCB | 1 | ~$10 | ~$10 |
 | USB Isolator | 1 | $9.99 | $9.99 | 
 | USB A to C | 1 | $1.29 | $1.29 | 
 | Estimated shipping |  |  | $15 |
-| Total |  |  | ~$95 |
+| Total |  |  | $101.72 |
 
 View the full BOM [here](https://docs.google.com/spreadsheets/d/1stNW1CtxRqX0r_00TOh1KZHbPOv3G7_He01Eiyjgmc0/edit?usp=sharing)
